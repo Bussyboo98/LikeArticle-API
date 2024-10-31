@@ -33,7 +33,7 @@ Start the Server
 python manage.py runserver
 
 Access Admin Interface
-Go to http://127.0.0.1:8000/admin and log in with your superuser credentials.
+Go to http://127.0.0.1:8000/admin/ and log in with your superuser credentials.
 
 API Documentation
 Swagger UI is available for testing and viewing API endpoints. Once the server is running, access Swagger UI at:
