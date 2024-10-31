@@ -1,0 +1,7 @@
+Django==4.2  
+djangorestframework==3.14.0  
+djangorestframework-authtoken==1.2.0  
+drf-yasg==1.21.4  
+Pillow==9.4.0  
+django-tinymce==3.4.0 
+mysqlclient==2.1.1
